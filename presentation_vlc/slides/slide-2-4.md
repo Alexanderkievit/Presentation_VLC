@@ -1,0 +1,1 @@
+<img src="./pictures/10_criteria.png" height="auto" width="500px" style="padding-bottom:0px;">

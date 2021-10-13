@@ -1,3 +1,8 @@
-### What to use them for
+#### Wat is Open-ICT?
+-
 
-![picture](./pictures/1.png)
+- De pilot begonnen in leerjaar 2019/2020.
+
+- Weg met het reguliere onderwijs!
+
+-

@@ -1,4 +1,7 @@
-#### Where to find it and how does it work
- Also see _KubusKillers_
+#### Waarom heb ik voor Open-ICT gekozen?
+-
+- Stil zitten kan ik wat lastiger.
 
-<iframe width="90%" height="500px" src="https://hbo-i.nl/domeinbeschrijving/"></iframe>
+- Onvoldoendes voor repetities/toetsen.
+
+- Altijd hoge cijfers voor projecten.

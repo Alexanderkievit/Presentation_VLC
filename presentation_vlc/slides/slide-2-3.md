@@ -1,10 +1,19 @@
-### How to interpret
+#### Structuur / Vakken / Werkwijze / Sfeer
+-
 
-> Inrichten en gebruik maken van beheersysteem ter ondersteuning van softwareontwikkeling in teamverband.
+- Geen lessen!
+- Geen vaste vakken!!
+- Geen tentames.
+- Project gestuurd leren. Heel veel praktijk.
+- Veel samenwerken.
+
+- Je wordt beoordeeld op je persoonlijke ontwikkeling.
 
 
-| Er staat...          | Lees hier |
+
+
+<!-- | Er staat...          | Lees hier |
 |----------------------|-----------|
 | Beheerssysteem       | GIT       |
 | Softwareontwikkeling | Je product|
-| Teamverband          | Je groepje|
+| Teamverband          | Je groepje| -->

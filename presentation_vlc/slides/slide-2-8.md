@@ -1,0 +1,1 @@
+<img src="./pictures/agile_werken.png" height="auto" width="900px" style="padding-bottom:0px;">

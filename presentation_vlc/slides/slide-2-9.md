@@ -1,0 +1,1 @@
+<img src="./pictures/semester_ritme.png" height="auto" width="1000px" style="padding-bottom:0px;">

@@ -1,3 +1,5 @@
-### That's All folks
+### De cijfers
 
-<iframe width="1500px" height="400px" src="./Contact/hboi.html"></iframe>
+-
+
+<img src="./pictures/cijfers_opleiding.png" height="auto" width="700px"></img>

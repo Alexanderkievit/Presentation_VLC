@@ -4,8 +4,8 @@
 - Wat is Open ICT?
   - Structuur
   - Vakken
-  - Werkwijze
   - Sfeer
+  - Wat cijfers
   - Christen zijn in de ICT
 
 - Krijg ik een baan?

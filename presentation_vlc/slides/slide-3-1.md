@@ -1,4 +1,10 @@
-### Examples
-SRE1
+#### Kende je deze pagina nog?
+#### Structuur / ~~Vakken~~ / Werkwijze / Sfeer
+-
 
-<img src="./pictures/4.png" height="auto" width="400px"></img>
+- Geen vaste lessen!
+- Geen vaste vakken!!
+- Geen tentames.
+- Project gestuurd leren. Heel veel praktijk.
+- Veel samenwerken.
+- Je wordt beoordeeld op je persoonlijke ontwikkeling.

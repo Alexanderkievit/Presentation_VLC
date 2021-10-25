@@ -6,6 +6,8 @@
   - Vakken
   - Werkwijze
   - Sfeer
+  - Christen zijn in de ICT
 
 - Krijg ik een baan?
 - Tips
+

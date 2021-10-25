@@ -5,3 +5,5 @@
 - Onvoldoendes voor repetities/toetsen.
 
 - Altijd hoge cijfers voor projecten.
+
+- Veel breder leren.

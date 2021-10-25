@@ -17,13 +17,17 @@ body {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -33,7 +37,7 @@ p {
 }
 
 .social-icon{
-  font-size: 14px;
+  font-size: 20px;
   margin-bottom: 8px; 
 }
 
@@ -45,12 +49,13 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  width: 500px;
 }
 
 .frame{
   margin: 12px;
   display: grid;
-  width: 700px;
+  width: 1500px;
   grid-template-columns: 40% 60%;
   grid-template-rows: 225px;
   grid-gap: 1rem;
@@ -70,8 +75,9 @@ p {
 	border-radius: 50%;
 	box-shadow: 0 0 0 0 rgba(93, 100, 238, 1);
 	margin: 25px;
-	height: 200px;
-	width: 200px;
+  margin-right: 150px;
+	height: 300px;
+	width: 300px;
 	transform: scale(1);
 	animation: pulse 2.2s infinite;
 }

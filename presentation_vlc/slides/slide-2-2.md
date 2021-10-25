@@ -1,8 +1,8 @@
 #### Wat is Open-ICT?
 -
 
-- De pilot begonnen in leerjaar 2019/2020.
 
-- Weg met het reguliere onderwijs!
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/qDsNxG9jsoU" frameborder="500" width="90%" height="500px" allowfullscreen="true"> </iframe>
+</figure>
 
--

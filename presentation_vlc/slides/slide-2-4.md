@@ -1,1 +1,5 @@
-<img src="./pictures/10_criteria.png" height="auto" width="500px" style="padding-bottom:0px;">
+#### Toelating
+
+
+<img src="./pictures/Toelating_open_ict.png" height="auto" width="500px" style="padding-bottom:0px;">
+

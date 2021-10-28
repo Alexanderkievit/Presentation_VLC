@@ -1,12 +1,12 @@
 #### Structuur / ~~Vakken~~ / Werkwijze / Sfeer
 -
 
-- Geen vaste lessen!
-- Geen vaste vakken!!
-- Geen tentames.
-- Project gestuurd leren. Heel veel praktijk.
-- Veel samenwerken.
-- Je wordt beoordeeld op je persoonlijke ontwikkeling.
+- <p class="fragment">Geen vaste lessen!</p>
+- <p class="fragment">Geen vaste vakken!!</p>
+- <p class="fragment">Geen tentames!</p>
+- <p class="fragment">Project gestuurd leren. Heel veel praktijk.</p>
+- <p class="fragment">Veel samenwerken.</p>
+- <p class="fragment">Je wordt beoordeeld op je persoonlijke ontwikkeling.</p>
 
 
 Note:

@@ -1,7 +1,9 @@
-### Jaar 4
+<img src="./pictures/gildes.png" height="auto" width="900px"></img>
 
--<br>
+Note:
+Uit de geschiedenis les
 
--
+Gildes van vroegen
 
-<h2>Geen idee
+Samen met iedereen zitten die zich ook op dat vak wil specialiseren
+

@@ -1,8 +1,13 @@
-#### Wat is Open-ICT?
+#### Waarom heb ik voor Open-ICT gekozen?
 -
+- Stil zitten kan ik wat lastiger.
 
+- Onvoldoendes voor repetities/toetsen.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/qDsNxG9jsoU" frameborder="500" width="90%" height="500px" allowfullscreen="true"> </iframe>
-</figure>
+- Altijd hoge cijfers voor projecten.
+
+- Veel breder leren.
+
+Note:
+Niet heel veel anders over te zeggen.
 

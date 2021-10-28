@@ -6,3 +6,8 @@
 
 
 "Quote van een Open-ICT docent 25-10-2021"
+
+Note:
+Niet heel veel bijzonders. De quote noemen en dat is het dan wel.
+
+Er is genoeg vraag naar ICTers. 

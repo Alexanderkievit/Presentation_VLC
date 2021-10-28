@@ -11,3 +11,5 @@
 - Krijg ik een baan?
 - Tips
 
+Note:
+Gewoon even door de inhoud gaan. Niet veel bijzonders.

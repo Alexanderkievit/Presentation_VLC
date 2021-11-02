@@ -4,9 +4,10 @@
 
 - Onvoldoendes voor repetities/toetsen.
 
+- Moeite met het leren van lange stukken tekst.
+
 - Altijd hoge cijfers voor projecten.
 
-- Veel breder leren.
 
 Note:
 Niet heel veel anders over te zeggen.
